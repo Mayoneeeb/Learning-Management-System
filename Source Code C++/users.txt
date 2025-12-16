@@ -1,0 +1,2 @@
+0|admin|Admin|admin|admin123
+1|student|ssa|01-134251-002|ki3223

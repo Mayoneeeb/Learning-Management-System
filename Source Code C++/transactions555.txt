@@ -1,0 +1,2 @@
+[2025-11-27 09:28:07] Account Created with Deposit of 100000 | Balance: 100000
+[2025-11-27 09:28:27] Withdrawal of 50000 | Balance: 50000
